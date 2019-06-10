@@ -1,1 +1,2 @@
 # Privacy-Policy
+<p>We are profeshional Magento developers in Vietnam, have many years worked WEB developer expert in Magento. This privacy policy explains how we use any personal information we collect about you when you use this website.</p>
